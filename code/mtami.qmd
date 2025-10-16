@@ -1,0 +1,33 @@
+# Multiplicity
+
+
+Because the Holm procedure is based on the conservative Bonferroni inequality (2.3), more powerful step-down procedures can be obtained by accounting for the stochastic dependencies between the test statistics.  The increase in power comes from using specific dependence information rather than the conservative Bonferroni inequality.
+
+The methods apply, for example, to generalized linear models, linear and non-linear mixed-effects models as well as survival data.
+
+Utilize the correlation structure involved in the joint distribution of the test statistics (either multivariate t or multivariate normal) in general leads to 
+
+
+
+
+```{r}
+library(multcomp)
+m <- lm(breaks ~ tension, data = warpbreaks)
+test <- glht(m, linfct = mcp(tension = "Tukey")) # "Tukey"
+
+# (p_val <- summary(m)$coef[-1,"Pr(>|t|)"])
+# p.adjust(p_val, method = "bonferroni")
+# p.adwiejust(p_val, method = "holm")
+
+s <- summary(test,test = adjusted(type = "bonferroni"))
+s$test$pvalues
+s <- summary(test,test = adjusted(type = "holm"))
+s$test$pvalues
+s <- summary(test,test = adjusted(type = "free"))
+s$test$pvalues
+```
+
+
+$$
+Var(aX+bY)=a^2Var(X)+b^2Var(Y)+abCov(X,Y)
+$$

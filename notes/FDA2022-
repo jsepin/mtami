@@ -1,0 +1,40 @@
+# Multiple Endpoints in Clinical Trials:
+
+- The issues of multiplicity and methods that apply to multiple endpoints also generally
+apply to other sources of multiplicity, including other estimand attributes (e.g., multiple doses, 
+time points, or study population subgroups)
+
+- multiple different drugs for a single disease in a master protocol (not scope of the guidelines)
+
+- When there is more than one primary or secondary endpoint, it is important to ensure that the 
+evaluation of multiple hypotheses will not lead to inflation of the study’s overall Type I error [...]
+
+- For example, for three independent endpoints, the Type I error rate is 1 - (0.975 * 0.975 * 0.975), which is about 7%. For ten 
+independent endpoints, the Type I error rate is about 22%. If the multiple endpoints are 
+correlated, the overall Type I error rate is also inflated but potentially by a lesser degree.
+
+- Even when a single outcome variable is being assessed, if multiple facets of that outcome are 
+analyzed (e.g., multiple dose groups, multiple time points, or multiple subject subgroups based 
+on demographic or other characteristics) and if any one of the analyses is used to conclude that 
+the drug has been shown to produce a beneficial effect, the multiplicity of analyses may cause 
+inflation of the Type I error rate
+
+- *Multiple primary endpoints* occur in three ways, further described in section III.C. The first is 
+when there are multiple primary endpoints, and each endpoint could be sufficient on its own to 
+establish the drug’s efficacy. These multiple endpoints thus correspond to multiple chances of 
+success, and in this case, failure to adjust for multiplicity can lead to Type I error rate inflation 
+and a false conclusion that the drug is effective. [the others are not problematic in terms of multiplicity issue]
+
+- The overall Type I error rate should control for the primary and secondary endpoint families all together.
+
+
+- Many diseases have multiple sequelae, and an effect demonstrated on any one of these aspects 
+could support a conclusion of effectiveness. Selection of a single primary endpoint may be 
+difficult, however, if the aspect of a disease that will be responsive to the drug or the evaluation method that will better detect a treatment effect is not known a priori (at the time of trial design).
+In this circumstance, a study might be designed such that success on any one of several
+endpoints could support a conclusion of effectiveness. This creates a primary endpoint family.
+For example, consider a drug for the treatment of burn wounds where it is not known whether the 
+drug will increase the rate of wound closure or reduce scarring, but the demonstration of either 
+effect alone would be considered clinically important. A study in this case might have both 
+wound closure rate and a scarring measure as separate primary endpoints.
+

@@ -1,0 +1,29 @@
+03.10.2025:
+(("missing") AND ("multiple imputation")) AND ((("multiplicity") OR ("multiple testing")))
+--> 7 results
+
+03.10.2025:
+(("missing data") AND ("multiple imputation")) AND ((("multiplicity") OR ("multiple testing")))
+--> 4 results
+
+03.10.2025:
+(("missing data") OR ("multiple imputation")) AND (("multiplicity") OR ("multiple testing"))
+--> 73 results
+
+03.10.2025:
+(("multivariate imputation") OR ("multiple imputation")) AND (("multiplicity") OR ("multiple testing"))
+--> 10 results
+
+03.10.2025:
+(("multivariate imputation") OR ("multiple imputation")) AND (("multiplicity") OR ("multiple testing") OR ("error rate"))
+--> 29 results
+
+03.10.2025:
+(("multivariate imputation") OR ("multiple imputation")) AND (("multiplicity") OR ("multiple testing") OR ("overall error rate") OR ("familywise error rate"))
+--> 11 results
+
+03.10.2025
+(("multivariate imputation") OR ("multiple imputation") OR ("multiple imputed") OR ("multivariate imputed")) AND (("multiplicity") OR ("multiple testing") OR ("overall error rate") OR ("familywise error rate"))
+--> 17 results
+
+

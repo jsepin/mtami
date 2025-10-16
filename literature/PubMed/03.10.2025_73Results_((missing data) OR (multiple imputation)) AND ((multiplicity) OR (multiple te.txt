@@ -1,0 +1,749 @@
+1. Lancet Reg Health Eur. 2025 Apr 29;53:101301. doi: 10.1016/j.lanepe.2025.101301. 
+eCollection 2025 Jun.
+
+Adolescent mental health before, during, and after the COVID-19 pandemic in 
+Iceland: a repeated, cross-sectional, population-based study.
+
+Haskell E(1), Sigmarsdottir B(1), Thorisdottir IE(2), Valborgarson A(1), Bonilla 
+Aparicio E(1), Kiviruusu O(3), Suvisaari J(3), Chang Z(4), Ystrom E(5), Butwicka 
+A(4)(6)(7)(8), Asgeirsdottir BB(1), Valdimarsdottir HB(1)(9), Sigfusdottir 
+ID(1)(10), Allegrante JP(1)(10), Halldorsdottir T(1)(11).
+
+Author information:
+(1)Department of Psychology, Reykjavik University, Reykjavik, Iceland.
+(2)Planet Youth, Reykjavik, Iceland.
+(3)Department of Public Health Solutions, National Institute for Health and 
+Welfare, Helsinki, Finland.
+(4)Department of Medical Epidemiology and Biostatistics, Karolinska Institute, 
+Stockholm, Sweden.
+(5)Department of Psychology, Faculty of Social Sciences, University of Oslo, 
+Oslo, Norway.
+(6)Division of Mental Health Services, R&D Department, Akershus University 
+Hospital, Lørenskog, Norway.
+(7)Institute of Clinical Medicine, Faculty of Medicine, University of Oslo, 
+Oslo, Norway.
+(8)Department of Biostatistics and Translational Medicine, Medical University of 
+Lodz, Lodz, Poland.
+(9)Department of Population Health Science and Policy, Icahn School of Medicine 
+at Mount Sinai, New York, NY, USA.
+(10)Department of Health Studies and Applied Educational Psychology, Teachers 
+College, Columbia University, New York, NY, USA.
+(11)Centre of Public Health Sciences, University of Iceland, Reykjavik, Iceland.
+
+BACKGROUND: Adolescents' mental health declined during the COVID-19 pandemic, 
+yet little is known about the long-term outcomes after the pandemic's 
+declassification as a global health emergency (5 May 2023). This study examined 
+changes in adolescent mental health in Iceland from 2016 to 2023, using a 
+bioecological framework to identify risk and protective factors.
+METHODS: Youth in Iceland surveys were administered nationwide to 
+13-15-year-olds in 2016, 2018, 2020, 2021, 2022 and 2023, with an average 75% 
+response rate across the years. The surveys included measures on depressive 
+symptoms, anxiety and hostility (Symptom Checklist-90), parental social support 
+(Perceived Parental Support Scale), screen time, and stress/trauma exposure 
+(Negative Life Events Scale). Stepwise-reduced mixed-effects models assessed the 
+association of age, gender, time and risk/protective factors and their effect on 
+mental health. Multiple imputation addressed missing data, and Bonferroni 
+corrections adjusted for multiple testing.
+FINDINGS: 62,011 adolescents participated: 48.2% female (n = 29,890), 50.0% male 
+(n = 31,002), 1.8% non-binary (n = 1119). Depressive symptoms showed signs of 
+improvement post-pandemic (2023) compared to 2021 (β 0.19, 95% CI 0.13-0.24), 
+yet remained higher than pre-pandemic levels (2016: β -0.38, 95% CI -0.44 to 
+-0.33; 2018: β -0.26, 95% CI -0.31 to -0.20). Anxiety and hostility also 
+increased and remained higher than pre-pandemic levels in 2023 (anxiety: 2016 β 
+-0.29, 95% CI -0.35 to -0.24, 2018 β -0.20, 95% CI -0.26 to -0.15; hostility: 
+2016 β -0.26, 95% CI -0.31 to -0.20, 2018 β -0.12, 95% CI -0.18 to -0.07). 
+Across all the models examining the predictors from diverse bioecological 
+spheres, low parental social support, high social media use, and bad grades were 
+consistently associated with poor mental health, regardless of mental health 
+outcome and gender.
+INTERPRETATION: The COVID-19 pandemic has had a serious and continuing negative 
+effect on adolescents' mental health. Targeted interventions are needed to 
+address the increase in mental health problems during the COVID-19 pandemic, 
+with a focus on enhancing parental support and managing screen use.
+FUNDING: Icelandic Research Fund (217612-051); NordForsk (147386).
+
+© 2025 The Authors.
+
+DOI: 10.1016/j.lanepe.2025.101301
+PMCID: PMC12432985
+PMID: 40950396
+
+Conflict of interest statement: IET is a staff member at Planet Youth, a youth 
+substance use prevention service organisation that is distributed globally 
+through sale of the Planet Youth Guidance Program, which is based on the 
+Icelandic Prevention Model, from which she receives a salary. All other authors 
+declare no competing interests.
+
+
+2. Eur J Haematol. 2025 Jul 29. doi: 10.1111/ejh.70002. Online ahead of print.
+
+Quality of Patient-Reported Outcomes in Multiple Myeloma Randomized Controlled 
+Trial Protocols and Publications According to the SPIRIT-PRO and CONSORT-PRO 
+guidelines: A Systematic Review.
+
+Shah D(1), Sparano F(2), Shah V(3), Krepper D(4), Baldi T(2), Chakraborty R(5), 
+Efficace F(2).
+
+Author information:
+(1)Renaissance School of Medicine, Stony Brook University, Stony Brook, New 
+York, USA.
+(2)Italian Group for Adult Hematologic Diseases (GIMEMA), Data Center and Health 
+Outcomes Research Unit, Rome, Italy.
+(3)Icahn School of Medicine at Mount Sinai, New York, New York, USA.
+(4)University Hospital of Psychiatry II, Medical University of Innsbruck, 
+Innsbruck, Austria.
+(5)Multiple Myeloma and Amyloidosis Program, Columbia University Irving Medical 
+Center, New York, New York, USA.
+
+BACKGROUND: Patient-reported outcomes (PROs) are now frequently incorporated 
+into multiple myeloma (MM) randomized controlled trials (RCTs) to help inform 
+clinical decision making. Although the quality of PRO components in cancer RCT 
+protocols is generally recognized as suboptimal, there are limited data on 
+adherence to international quality standards in MM RCT protocols.
+METHODS: We performed a systematic review to identify MM RCTs published between 
+January 2014 and June 2023 that utilized the EORTC QLQ-C30 questionnaire. The 
+quality of PRO-specific protocol content was evaluated using the SPIRIT-PRO 
+guidelines, which establish key requirements for PRO inclusion in protocols. The 
+framework consists of 16 items: 5 elaborations of the existing SPIRIT checklist 
+and 11 PRO-specific extensions items. The quality of PRO reporting was evaluated 
+using CONSORT-PRO Extension, which comprises 14 items to improve the reporting 
+of PRO data in clinical trials.
+RESULTS: Our systematic review identified 35 RCTs encompassing 20,612 patients, 
+with 24 trials (69%) having publicly accessible protocols. The median protocol 
+compliance was 7.5 SPIRIT-PRO items. Analysis of 24 protocols showed strong 
+compliance in assessment schedules (96%), PRO domains/instrument justification 
+(79%), and PRO objectives (71%). Intervention deviation procedures were 
+described in 62% of protocols. Half included comprehensive data collection 
+plans, while 58% addressed missing data methods and 42% outlined PRO research 
+questions or multiplicity controls. Notably weak areas included strategies for 
+preventing missing data (38%), and only 8% of protocols detailed PRO monitoring 
+plans, personnel specifications, or eligibility criteria. CONSORT-PRO scores 
+varied across all 35 RCTs (median 11, range 0.5-14). Among the 35 RCTs, while 
+trials showed strong reporting of statistical elements (94% precision estimates, 
+91% subgroup analyses, 89% intention-to-treat, 86% timepoint completion) and 
+results (80% hypothesized domains, 71% PRO validity, 69% clinical implications, 
+66% limitations), key PRO-specific components were reported by less than 
+two-thirds of RCTs: only 11% stated PRO hypotheses, 31% specified administration 
+mode, 43% identified domains, 60% addressed missing data, and 63% provided PRO 
+rationale. Two factors were associated with higher reporting quality, both 
+potentially reflecting publication bias: having a secondary PRO-focused paper 
+(p < 0.001) and finding statistically significant EORTC QLQ-C30 differences 
+(p = 0.024). Our multivariable analysis showed no significant association 
+between SPIRIT-PRO scores and CONSORT-PRO scores.
+CONCLUSION: Despite some foundational strengths of existing MM RCT protocols, 
+gaps exist in PRO methodological specifications, statistical analysis, and 
+clinical interpretation. Our findings may help to better inform PRO 
+implementation in future MM RCT protocols. For example, since missing PRO data 
+can be due to informative censoring, there should be increased attention on 
+considering how to minimize missing data, already at the stage of protocol 
+writing. Our findings regarding predictors of higher reporting quality suggest 
+that trials with significant PRO differences receive systematically better 
+reporting, possibly introducing bias in the available evidence base.
+
+© 2025 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/ejh.70002
+PMID: 40729465
+
+
+3. World J Surg Oncol. 2025 Jul 9;23(1):271. doi: 10.1186/s12957-025-03927-7.
+
+Optimizing ERAS protocols in robotic nephron-sparing surgery: a randomized 
+trial.
+
+Wang Y(1), He M(2), Lou L(3).
+
+Author information:
+(1)Hangzhou Hospital of Traditional Chinese Medicine, Hangzhou, Zhejiang 
+Province, 310007, China.
+(2)Department of the Operating Room, Affiliated People's Hospital, Zhejiang 
+Provincial People's Hospital, Hangzhou Medical College, Hangzhou, Zhejiang, 
+310014, China.
+(3)Emergency and Critical Care Center, Intensive Care Unit, Affiliated People's 
+Hospital, Zhejiang Provincial People's Hospital, Hangzhou Medical College, No. 
+158 Shangtang Road, Gongshu District, Hangzhou, Zhejiang, 310014, China. 
+llllllicu@163.com.
+
+OBJECTIVE: To evaluate the clinical efficacy of evidence-based Enhanced Recovery 
+After Surgery (ERAS) nursing protocols in patients undergoing robotic-assisted 
+partial nephrectomy using the Da Vinci system.
+METHODS: A total of 240 patients undergoing Da Vinci robot-assisted partial 
+nephrectomy were randomized (1:1) to ERAS (n = 120) or conventional care 
+(n = 120) groups using a stratified block randomization method. The sample size 
+was calculated based on a power of 80%, α = 0.05, and anticipated clinically 
+significant differences, though specific values for the standard deviation and 
+effect size were not disclosed. Primary outcomes included operative time, 
+estimated blood loss, and length of hospital stay. Secondary outcomes assessed 
+complication rates (Clavien-Dindo classification) and patient-reported comfort 
+(Kolcaba GCQ questionnaire). Categorical variables were analyzed using the 
+Chi-square test, while continuous variables were assessed with the independent 
+samples t-test. Bonferroni correction was applied for pairwise comparisons to 
+control for multiple testing. All analyses adhered to the modified 
+intention-to-treat principle using the full analysis set (FAS), and no 
+imputation was made for missing data. A p-value < 0.05 was considered 
+statistically significant.
+RESULTS: The ERAS group demonstrated superior recovery metrics compared to the 
+control group: operative duration (228.6 ± 9.5 vs. 252.8 ± 10.1 min, mean 
+difference [MD] - 24.2, 95% CI -27.3, -21.1; p < 0.001), intraoperative blood 
+loss (200.4 ± 18.2 vs. 232.6 ± 19.3 mL, MD - 32.2, 95% CI -36.8, -27.6; 
+p < 0.001), and shorter postoperative milestones (ambulation: 14.3 ± 1.7 vs. 
+18.7 ± 2.2 h, p < 0.001; catheter removal: 2.1 vs. 3.5 days, p < 0.001). 
+Hospital stay was significantly reduced (6.2 ± 2.1 vs. 10.5 ± 3.3 days, MD 
+- 4.3, 95% CI -5.0, -3.6; p < 0.001). Complication rates were markedly lower 
+with ERAS (14.2% vs. 39.2%, relative risk [RR] 0.36, 95% CI 0.24-0.55; 
+p < 0.001), particularly for urinary infections (3.3% vs. 11.7%, p = 0.027) and 
+wound hematomas (5.0% vs. 13.3%, p = 0.025). GCQ scores improved significantly 
+in the ERAS group post-intervention (p < 0.001).
+CONCLUSION: ERAS nursing grounded in evidence-based medicine significantly 
+enhances postoperative recovery, reduces complications, and improves patient 
+comfort in robotic-assisted partial nephrectomy. These findings support its 
+broader clinical adoption.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12957-025-03927-7
+PMCID: PMC12243225
+PMID: 40634931 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The study was reviewed and approved by the Medical Ethics Committee 
+of Zhejiang Provincial People’s Hospital (approval number: 2025-087). The study 
+was conducted in accordance with ethical standards set out by the Declaration of 
+Helsinki. Written Informed consent was obtained from all participants. Consent 
+for publication: All participants have been informed and they have approved for 
+publication. Competing interests: The authors declare no competing interests.
+
+
+4. J Clin Epidemiol. 2025 Jul;183:111788. doi: 10.1016/j.jclinepi.2025.111788. Epub 
+2025 Apr 17.
+
+Investigating the trustworthiness of randomized controlled trials in osteopathic 
+research: a systematic review with meta-analysis.
+
+Sénéquier A(1), Draper-Rodi J(2), Alvarez Bustins G(3), Braithwaite FA(4), Brown 
+J(5), Corcoran D(6), Forrest L(7), Godsi E(8), MacMillan A(9), Menard M(10), 
+Carvajal SR(11), Scocca C(8), Treffel L(12), Vaucher P(13), Wagner A(14), 
+Soliman N(15), Abbey H(1), Hohenschurz-Schmidt D(16).
+
+Author information:
+(1)National Council for Osteopathic Research, Health Sciences University, 
+London, UK.
+(2)National Council for Osteopathic Research, Health Sciences University, 
+London, UK; UCO School of Osteopathy, Health Sciences University, London, UK; 
+Centre for Osteopathic Research and Leadership (CORaL), Health Sciences 
+University, London, UK.
+(3)Iberoamerican Cochrane Centre, Biomedical Research Institute Sant Pau, IIB 
+Sant Pau, Barcelona, Spain; Faculty of Health Science Blanquerna, Department of 
+Physical Therapy, Ramon Llull University, Barcelona, Spain.
+(4)IIMPACT in Health, University of South Australia, Adelaide, Australia; 
+Persistent Pain Research Group, Hopwood Centre for Neurobiology, Lifelong Health 
+Theme, South Australia Health and Medical Research Institute (SAHMRI), Adelaide, 
+Australia.
+(5)Private Practice, Tunbridge Wells, UK.
+(6)First Year College, Victoria University, Melbourne, Australia.
+(7)Private Practice, Essex, UK.
+(8)BCNO Group, London, UK.
+(9)UCO School of Osteopathy, Health Sciences University, London, UK.
+(10)Institut d'Ostéopathie de Rennes - Bretagne, Bruz, France; Université 
+Rennes, IO-RB, INRIA, M2S, Rennes, France.
+(11)Biomedical Research Methodology and Public Health in the Medical Department 
+of the Universitat Autonoma de Barcelona, Barcelona, Spain.
+(12)Institut Toulousain d'Ostéopathie, ITO Pôle Recherche, Toulouse, France; 
+Australian Research Consortium in Complementary and Integrative Medicine, 
+Faculty of Public Health, University of Technology Sydney, Sydney, Australia.
+(13)Foundation COME Collaboration, Pescara, Italy.
+(14)Centre Européen d'Enseignement Supérieur de l'Ostéopathie, Paris, France.
+(15)Pain Research Group, Department of Surgery and Cancer, Imperial College 
+London, London, UK.
+(16)UCO School of Osteopathy, Health Sciences University, London, UK; Imperial 
+Clinical Trials Unit, School of Public Health, Imperial College London, London, 
+UK. Electronic address: d.hohenschurz@imperial.ac.uk.
+
+OBJECTIVES: To systematically investigate trustworthiness (methodological rigor, 
+transparency, good governance, research integrity, and absence of misconduct) in 
+randomized controlled trials (RCTs) of osteopathic manual therapy.
+METHODS: This prospectively registered review (PROSPERO-ID: CRD42023457697) 
+searched MEDLINE, EMBASE, CINAHL, AMED, PEDro, ostmed.dr, and Chiroindex for 
+RCTs evaluating osteopathic treatments (January 2021-June 2024). Risk of bias 
+(RoB) was assessed using Cochrane tool 2, while trustworthiness was assessed 
+with the Cochrane Pregnancy and Childbirth Screening Tool and the REAPPRAISED 
+checklist. Journal trustworthiness, misleading representations in abstracts 
+("spin"), and results plausibility (via meta-analysis) were also assessed. 
+Findings were synthesized descriptively.
+RESULTS: Sixty-one RCTs were included (median sample size 45, interquartile 
+range (IQR) 30-76), largely studying healthy volunteers (29%). Most had high RoB 
+(74%), and only 7% acknowledged potential conflicts from authors' professional 
+ties. No journals appeared on cautionary lists, although 23% of articles were 
+published within 2 months of submission. Only 27% of contactable authors engaged 
+with reviewers. Seven abstracts (12%) were free of spin. Methodological concerns 
+included poor missing data handling (31%), selective analyses (38%), 
+unacknowledged multiple testing (36%), and outcome switching (12%). 
+Meta-analysis found two outliers and five further with very large effects, while 
+19% provided inadequate data for pooling. Limitations include incomplete reports 
+and lack of validated trustworthiness assessment tools.
+CONCLUSION: Adherence to best practices in osteopathic RCTs needs improvement to 
+enhance evidence-based decision-making, reduce research waste, and enhance 
+reproducibility. Further research should explore whether these findings apply to 
+other small, under-resourced fields.
+PLAIN LANGUAGE SUMMARY: Clinical trials are studies that test if medical 
+treatments work. Doctors and others use these studies to decide how to care for 
+patients or which treatments should be paid for. For clinical trials to be 
+helpful, they need to follow rules to show they can be trusted. For example, 
+researchers can build trust by sharing their plans before they start, reporting 
+all their results honestly and answering questions about their work. In this 
+project, we looked at 61 clinical trials from a 3.5-year period that tested a 
+hands-on treatment called "osteopathic manual therapy." We checked how well 
+these trials followed the rules for trustworthy research. We found that many 
+trials had problems. For example, important research steps were skipped (such as 
+properly registering the study on appropriate online platforms before starting, 
+following the steps described in the registration documents, and correctly 
+examining the collected data). Often, results were also made to look better than 
+they really are, or it was not clearly explained what happened during the study. 
+Only a few researchers answered questions when we asked them. This shows that 
+some osteopathic trials need to do better so people can trust the results. We 
+also suggest ways researchers can improve trustworthiness in the future.
+
+Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jclinepi.2025.111788
+PMID: 40252854 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest Amandine 
+Sénéquier reports financial support from the UK National Council for Osteopathic 
+Research (NCOR). She reports employment in private practice as an osteopath and 
+with Queen Mary University of London, which also provided funding grants. She 
+had a consulting relationship with Altern Health Ltd. Jerry Draper-Rodi received 
+financial support from the Osteopathic Foundation. He reports employment with 
+NCOR and involvement with Osteopathy Europe, where he received funding grants, 
+non-financial support, and travel reimbursements. He also had non-financial 
+support and travel reimbursements from the University of Technology Sydney's 
+Faculty of Health - Australian Research Center in Complementary and Integrative 
+Medicine. Additionally, he reports speaking and lecture fees from Kookie 
+Learning and Metropolia University of Applied Sciences, consulting fees from the 
+College of Health Sciences Fribourg, and employment in private osteopathic 
+practice. Gerard Alvarez received financial support from NCOR. He reports 
+employment with the Faculty of Health Science Blanquerna, Ramon Llull 
+University, Barcelona, Spain, and board membership and employment in private 
+osteopathic practice. Felicity Braithwaite reports financial support from NCOR. 
+She received funding grants from The Hospital Research Foundation - Arthritis, 
+the Medical Research Future Fund, and the National Health and Medical Research 
+Council. She also reports speaking fees and travel reimbursements from the San 
+Diego Pain Summit, Australian Physiotherapy Association, Australian Podiatry 
+Association, Medicine Education Science and Health (MESH), and Noigroup, as well 
+as speaking fees from the Australian Pain Society (where she served as a board 
+member) and the European Pain Federation. She received travel reimbursements 
+from the International Association for the Study of Pain. Jessica Brown reports 
+financial support from NCOR and employment in private osteopathic practice. 
+Daniel Corcoran received financial support from NCOR and reports employment with 
+Victoria University. Laura Forrest reports financial support from NCOR and 
+employment in private osteopathic practice. Elianne Godsi reports financial 
+support from NCOR. She reports employment in private osteopathic practice and 
+received speaking and lecture fees from The BCNO Group, British College of 
+Osteopathic Medicine. Andrew MacMillan received financial support from NCOR. He 
+reports being an honorary research fellow at Health Sciences University and 
+working as a practicing osteopath and researcher. He reports employment by NHS 
+England as an advanced practice reviewer, and Circle Integrated Care as an 
+advanced practice osteopath. He also receives income from delivering Continued 
+Professional Development training to healthcare professionals. Mathieu Menard 
+reports financial support from NCOR. He was employed by the Institut 
+d'Ostéopathie de Rennes - Bretagne, served as an associate researcher at the M2S 
+lab of the University of Rennes 2, and was a member of the International 
+Advisory Board of the International Journal of Osteopathic Medicine (IJOM). 
+Sonia Roura reports financial support and travel reimbursement from NCOR. She 
+also reports employment in private osteopathic practice. Concetta Scocca reports 
+financial support from NCOR and employment in private osteopathic practice and 
+by The BCNO Group. Loïc Treffel reports employment in Institut Toulousain 
+d'Ostéopathie; financial support for Continuing Professional Development in 
+Osteopathy, fees for providing osteopathic clinical services; non-financial 
+support and travel reimbursement from University of Technology Sydney's Faculty 
+of Health - Australian Research Center in Complementary and Integrative 
+Medicine. Paul Vaucher works as a private independent clinician in osteopathic 
+care, serves as CEO of OsteoPole (a company providing education and research 
+services), is a board member of the Foundation COME Collaboration, and is an 
+associate editor at IJOM. He received funding from the Swiss Osteopathic Science 
+Foundation, the School of Health Sciences Western Switzerland, and received 
+accommodation and travel cost coverage for various talks at osteopathic 
+congresses in Europe. Agathe Wagner reports financial support from NCOR. She 
+reports employment with the European Center for Higher Education in Osteopathy, 
+employment in private osteopathic practice, and membership on the International 
+Advisory Board of IJOM. Nadia Soliman reports a relationship with Imperial 
+College London that included employment and research funding grants. Hilary 
+Abbey reports financial support and employment with NCOR, and a role as Honorary 
+Visiting Professor at Health Sciences University - UCO School of Osteopathy. 
+David Hohenschurz-Schmidt received consulting fees from Altern Health Ltd. and 
+income from private osteopathic practice. He reports employment with Health 
+Sciences University and Imperial College London, and or self-employed income 
+from Osteopathie Schule Deutschland and Haute école de santé Fribourg, where he 
+received honoraria for teaching and supervision. He served on the executive 
+committee of the Society for Back Pain Research, the Scientific Committee for 
+the 2026 International Association for the Study of Pain (IASP) World Congress, 
+and as an editor at BioMed Central Medical Research Methodology. He also 
+received research funding from The Osteopathic Foundation, the Alan and Sheila 
+Diamond Charitable Trust, the UK National Institute for Health and Care Research 
+(NIHR), the Chelsea and Westminster Hospital Joint Research Council, and 
+personal support through prizes or conference travel awards from International 
+Association for the Study of Pain, BritSpine, and the European Pain Federation. 
+He received personal honoraria for research from the Analgesic, Anesthetic, and 
+Addiction Clinical Trial Translations, Innovations, Opportunities, and Networks 
+(ACTTION). No company or professional body other than NCOR, through its director 
+Jerry Draper-Rodi, was involved in the design, conduct, or write-up of this 
+systematic review. The funder of this systematic review did not have any role in 
+the design, analysis, or reporting of this project.
+
+
+5. Ann Rheum Dis. 2025 May;84(5):660-663. doi: 10.1016/j.ard.2025.02.007. Epub 2025 
+Mar 8.
+
+Statistical review: frequently given comments updated.
+
+Lydersen S(1).
+
+Author information:
+(1)Regional Centre for Child and Youth Mental Health and Child Welfare, 
+Department of Mental Health, Faculty of Medicine and Health Sciences, Norwegian 
+University of Science and Technology (NTNU), Trondheim, Norway. Electronic 
+address: stian.lydersen@ntnu.no.
+
+From 2006 to 2024, I have carried out statistical reviews of about 700 
+manuscripts for Annals of the Rheumatic Diseases and RMD open. My most frequent 
+review comments concern the following: 1. Report how missing data were handled. 
+2. Limit the number of covariates in regression analyses. 3. Do not use stepwise 
+selection of covariates. 4. Validate prediction models. 5. Adjust for baseline 
+values in randomised controlled trials. 6. Do not adjust for baseline values in 
+observational studies. 7. Dichotomising a continuous variable can be a bad idea. 
+8. Student t test is better than nonparametric tests. 9. Mean (SD) are also 
+relevant for nonnormally distributed data. 10. Adjusting P values for 
+multiplicity. 11. Report estimate, CI, and (possibly) P value-in that order of 
+importance. 12. Do not test for baseline imbalances in a randomised controlled 
+trial. 13. Format for reporting CIs. 14. Mind the number of reported decimal 
+places. 15. Report absolute numbers where relevant.
+
+Copyright © 2025 The Author. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ard.2025.02.007
+PMID: 40057397 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The author declares no 
+competing interests.
+
+
+6. Brain. 2025 Apr 3;148(4):1106-1111. doi: 10.1093/brain/awae396.
+
+Rethinking phase 2 trials in amyotrophic lateral sclerosis.
+
+Benatar M(1)(2), McDermott C(3), Turner MR(4), van Eijk RPA(5)(6).
+
+Author information:
+(1)Department of Neurology, University of Miami Miller School of Medicine, 
+Miami, FL 33136, USA.
+(2)ALS Center, University of Miami, Miami, FL 33136, USA.
+(3)Division of Neuroscience, Sheffield Institute for Translational Neuroscience, 
+University of Sheffield, Sheffield S11 9EJ, UK.
+(4)Nuffield Department of Clinical Neurosciences, Oxford University, Oxford OX3 
+9DU, UK.
+(5)Department of Neurology, UMC Utrecht Brain Center, University Medical Center 
+Utrecht, Utrecht 3584CX, The Netherlands.
+(6)Biostatistics & Research Support, Julius Center for Health Sciences and 
+Primary Care, University Medical Center Utrecht, Utrecht 3584CX, The 
+Netherlands.
+
+There is a long history in amyotrophic lateral sclerosis (ALS) of promoting 
+therapies based on phase 2 data, which then fail in phase 3 trials. Experience 
+suggests that studies of 6 months in duration are too short, especially with 
+function-based outcome measures. Multiplicity poses a serious threat to data 
+interpretation, and strategies to impute missing data may not be appropriate for 
+ALS where progression is always expected. Emerging surrogate markers of clinical 
+benefit such as reduction of neurofilament light chain levels may be better 
+suited to phase 2 go/no-go decisions. Over-interpretation of phase 2 data, and 
+overly optimistic communication of exploratory analyses must be avoided to 
+ensure optimal prioritization for the investment needed for definitive phase 3 
+trials and to minimize the harm of false hope for people living with ALS. 
+Delivering on advances in understanding of the neurobiology of ALS requires 
+urgent attention to phase 2 design and implementation.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of the 
+Guarantors of Brain.
+
+DOI: 10.1093/brain/awae396
+PMCID: PMC11969460
+PMID: 39657109 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.B. reports consulting fees from Alector, 
+Alexion, Annexon, Arrowhead, Biogen, Cartesian, Denali, Eli Lilly, Horizon, 
+Immunovant, Novartis, Roche, Sanofi, Takeda, UCB, and uniQure. The University of 
+Miami has licensed intellectual property to Biogen to support design of the 
+ATLAS study. C.J.M. reports consulting fees from Novartis, Biogen, Verge, PTC 
+Therapeutics, Amylyx, Ferrer. M.R.T. reports salary support from the Motor 
+Neurone Disease Association; royalties or licenses from Oxford University Press, 
+Oneworld, and Karger; speakers’ honoraria from University of Miami; and 
+participation in advisory board for Biogen and Novartis. R.v.E. reports no 
+conflicts.
+
+
+7. Children (Basel). 2024 Oct 31;11(11):1331. doi: 10.3390/children11111331.
+
+Findings from the Mighty Girls Efficacy Trial: Changes in Acceptance of Dating 
+Violence.
+
+Hecht ML(1), Norris AE(2), Crowley DM(3), Temple JR(4), Choi HJ(5).
+
+Author information:
+(1)REAL Prevention LLC, 130 Pearl Brook Dr, Clifton, NJ 07013, USA.
+(2)School of Nursing & Health Studies, University of Miami, P.O. Box 248153, 
+Coral Gables, FL 33124, USA.
+(3)College of Health and Human Development, Pennsylvania State University, 219 
+HHD Building, University Park, PA 16802, USA.
+(4)Center for Violence Prevention, Betty and Rose Pfefferbaum Chair in Child 
+Mass Trauma and Resilience, School of Behavioral Health Sciences, University of 
+Texas Health Science Center, Houston, TX 77030, USA.
+(5)College of Health Sciences, University of Missouri, 318 Clark Hall, Columbia, 
+MO 65211, USA.
+
+BACKGROUND/OBJECTIVES: Test efficacy of the social emotional learning 
+(SEL)-based Mighty Girls program, a program culturally tailored for 
+English-speaking Hispanic/Latino girls in seventh grade comprised of classroom 
+sessions and a virtual reality computer game. We hypothesized that the 
+curriculum would decrease risky sexual behaviors in a program that can be used 
+as part of a comprehensive sex education curriculum or as a stand-alone program.
+METHODS: A randomized group trial was conducted in which 22 low-income, 
+predominately Hispanic schools within the Miami-Dade County Public School System 
+were randomly assigned to intervention (consented n = 335) and control 
+(consented n = 217) conditions. All study activities occurred after school. 
+Primary outcome measures were resistance self-efficacy, acceptance of dating 
+violence, sexual intentions, and sexual behavior. Assessments occurred at 
+baseline, immediately post-intervention, 3-, 12-, and 24-months 
+post-intervention. Changes in outcomes from baseline to 24 months were modeled 
+using multi-level models to account for nesting of students within schools with 
+full information maximum likelihood to account for missing data and baseline 
+school attendance and enrollment in free and reduced lunch as covariates. 
+Analyses are also controlled for multiple testing.
+RESULTS: The program had a significant effect on reducing acceptance of dating 
+violence at 24 months post-intervention (estimate = -0.083, p ≤ 0.05), but no 
+effect on resistance self-efficacy, sexual intentions, or sexual behavior (p ≥ 
+0.58).
+CONCLUSION: Study findings demonstrate that a social emotional learning (SEL) 
+curriculum can impact sexual behaviors such as susceptibility to dating 
+violence. Low baseline levels for sexual intentions and behaviors as well as a 
+high baseline of efficacy may have impacted findings for the other outcomes.
+
+DOI: 10.3390/children11111331
+PMCID: PMC11592806
+PMID: 39594906
+
+Conflict of interest statement: Authors Michael L Hecht was employed by REAL 
+Prevention LLC. The remaining authors declare that the research was conducted in 
+the absence of any commercial or financial relationships that could be construed 
+as a potential conflict of interest.
+
+
+8. J Endocr Soc. 2024 Sep 9;8(10):bvae150. doi: 10.1210/jendso/bvae150. eCollection 
+2024 Aug 27.
+
+Association of Hormonal Exposures With Grip Strength in Women >45 Years: Data 
+From the CONSTANCES Cohort Study.
+
+Le Noan-Lainé M(1), Artaud F(1), Ozguler A(2), Cœuret-Pellicer M(2), Ringa V(1), 
+Elbaz A(1), Canonico M(1).
+
+Author information:
+(1)Inserm, Université Paris-Saclay, UVSQ, Gustave Roussy, CESP, Villejuif 94807, 
+France.
+(2)Inserm, UMS011, Population-Based Epidemiologic Cohorts, Villejuif 94807, 
+France.
+
+CONTEXT: Although biological findings show that estrogens are beneficial for 
+muscular mass maintenance and bone resorption inhibition, the association of 
+hormonal exposure with physical performance are controversial.
+OBJECTIVE: We investigated the association of reproductive history and exogenous 
+hormone use with hand-grip strength (GS) in women.
+METHODS: Using the data from the CONSTANCES French prospective population-based 
+cohort study, we ran linear mixed models to investigate the association of 
+reproductive history and exogenous hormones use with maximal GS in 37 976 women 
+aged 45 to 69 years recruited between 2012 and 2020. We used multiple imputation 
+by chained equations to control missing values and corrections for multiple 
+testing.
+RESULTS: The mean age of women was 57.2 years. Mean GS was 26.6 kg. After 
+adjustment for age and confounders, GS increased with age at menarche (β+1 year 
+= 0.14; 95% CI, 0.10-0.17) and duration of breastfeeding (β for ≥10 months vs <5 
+months = 0.39; 95% CI, 0.20-0.59; P for linear trend <.01). Compared to 
+nonmenopausal women, postmenopausal women had significantly lower GS (β = -0.78; 
+95% CI, -0.98 to -0.58). GS was negatively associated with hormone therapy (HT) 
+past use (β = -0.25; 95% CI, -0.42 to -0.07).
+CONCLUSION: Our results suggested that menopausal transition was strongly 
+associated with lower GS. However, despite our hypothesis, increased age at 
+menarche and duration of breastfeeding were associated with higher GS and HT 
+past users presented lower GS than HT never users. These findings could help 
+identify women at high risk of poor physical performance.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of the 
+Endocrine Society.
+
+DOI: 10.1210/jendso/bvae150
+PMCID: PMC11406748
+PMID: 39290336
+
+
+9. Heliyon. 2024 Jul 26;10(15):e34864. doi: 10.1016/j.heliyon.2024.e34864. 
+eCollection 2024 Aug 15.
+
+Changes in immunophenotypes after neoadjuvant endocrine therapy for prostate 
+cancer and their clinical significance.
+
+Li M(1)(2), Zhong K(3), He G(1), Yin Y(1)(3).
+
+Author information:
+(1)Department of Pathology, The First Affiliated Hospital of Anhui Medical 
+University, Hefei, Anhui, 230022, PR China.
+(2)Department of Pathology, NO.2 People' s Hospital of Fuyang City, Fuyang, 
+Anhui, 236015, PR China.
+(3)Department of Pathology, School of Basic Medical Sciences, Anhui Medical 
+University, Hefei, Anhui, 230032, PR China.
+
+BACKGROUND: To investigate changes in the immunophenotypes of androgen receptor 
+(AR), prostate-specific antigen (PSA), synaptophysin (Syn), chromogranin A 
+(CgA), p53 and Ki-67 after neoadjuvant endocrine therapy (NET) for prostate 
+cancer (PCa) and to analyze their clinical significance.
+METHODS: Paired paraffin samples were collected from 40 PCa patients before and 
+after NET, and immunohistochemistry were used to detect AR, PSA, Syn, CgA, p53 
+and Ki-67 expression. Based on The Cancer Genome Atlas (TCGA), Kaplan‒Meier 
+survival curves were plotted for analysis of PSA and Ki-67 expression in 
+relation to progression-free survival (PFS).
+RESULTS: After NET, the mean scores for PSA and Ki-67 expression in PCa patients 
+were lower than those before NET (P < 0.05), while the mean scores for Syn and 
+CgA expression were higher than those before NET (P < 0.05). The mean Gleason 
+score and WHO/ISUP (World Health Organization/International Society of 
+Urological Pathology) grade after NET were lower than those before NET 
+(P < 0.05). In PCa patients who had not yet received NET, PSA expression 
+correlated positively with Gleason score and WHO/ISUP grade and negatively with 
+Ki-67 expression (P < 0.05); p53 expression correlated negatively with Gleason 
+score and WHO/ISUP grade (P < 0.05). TCGA showed that PFS was lower in PCa 
+patients with high PSA and Ki-67 expression (P < 0.05).
+CONCLUSIONS: PSA and Ki-67 protein expressions decreased significantly in PCa 
+patients after NET and can be used as biological markers for prognostic 
+assessment of PCa patients. NETs may induce a neuroendocrine (NE) phenotype in 
+PCa. Monitoring the immunophenotypes of PCa patients after NET may inform 
+assessment of efficacy and prognosis.
+
+© 2024 The Authors.
+
+DOI: 10.1016/j.heliyon.2024.e34864
+PMCID: PMC11336308
+PMID: 39170268
+
+Conflict of interest statement: The authors declare the following financial 
+interests/personal relationships which may be considered as potential competing 
+interests:YuYin reports financial support was provided by 
+10.13039/501100001809National Natural Science Foundation of China and Key 
+Natural Science Research Project of Anhui Universities. If there are other 
+authors, they declare that they have no known competing financial interests or 
+personal relationships that could have appeared to influence the work reported 
+in this paper. STROBE Statement—Checklist of items that should be included in 
+reports of cross-sectional studies.Item NoRecommendationPageNoTitle and 
+abstract1(a) Indicate the study's design with a commonly used term in the title 
+or the abstract3(b) Provide in the abstract an informative and balanced summary 
+of what was done and what was found3IntroductionBackground/rationale2Explain the 
+scientific background and rationale for the investigation being reported4, 
+5Objectives3State specific objectives, including any prespecified 
+hypotheses5MethodsStudy design4Present key elements of study design early in the 
+paper5Setting5Describe the setting, locations, and relevant dates, including 
+periods of recruitment, exposure, follow-up, and data 
+collection5Participants6(a) Give the eligibility criteria, and the sources and 
+methods of selection of participants5Variables7Clearly define all outcomes, 
+exposures, predictors, potential confounders, and effect modifiers. Give 
+diagnostic criteria, if applicable6, 7Data sources/measurement8aFor each 
+variable of interest, give sources of data and details of methods of assessment 
+(measurement). Describe comparability of assessment methods if there is more 
+than one group6, 7Bias9Describe any efforts to address potential sources of 
+biasNAStudy size10Explain how the study size was arrived atNAQuantitative 
+variables11Explain how quantitative variables were handled in the analyses. If 
+applicable, describe which groupings were chosen and whyNAStatistical 
+methods12(a) Describe all statistical methods, including those used to control 
+for confounding7, 8(b) Describe any methods used to examine subgroups and 
+interactionsNA(c) Explain how missing data were addressedNA(d) If applicable, 
+describe analytical methods taking account of sampling strategyNA(e) Describe 
+any sensitivity analysesNAResultsParticipants13a(a) Report numbers of 
+individuals at each stage of study—eg numbers potentially eligible, examined for 
+eligibility, confirmed eligible, included in the study, completing follow-up, 
+and analyzed8, 9(b) Give reasons for non-participation at each stageNA(c) 
+Consider use of a flow diagram27Descriptive data14a(a) Give characteristics of 
+study participants (eg demographic, clinical, social) and information on 
+exposures and potential confounders8, 9(b) Indicate number of participants with 
+missing data for each variable of interestNAOutcome data15aReport numbers of 
+outcome events or summary measures8, 9Main results16(a) Give unadjusted 
+estimates and, if applicable, confounder-adjusted estimates and their precision 
+(eg, 95 % confidence interval). Make clear which confounders were adjusted for 
+and why they were includedNA(b) Report category boundaries when continuous 
+variables were categorizedNA(c) If relevant, consider translating estimates of 
+relative risk into absolute risk for a meaningful time periodNAOther 
+analyses17Report other analyses done—eg analyses of subgroups and interactions, 
+and sensitivity analysesNADiscussionKey results18Summarise key results with 
+reference to study objectives10Limitations19Discuss limitations of the study, 
+taking into account sources of potential bias or imprecision. Discuss both 
+direction and magnitude of any potential bias12Interpretation20Give a cautious 
+overall interpretation of results considering objectives, limitations, 
+multiplicity of analyses, results from similar studies, and other relevant 
+evidence12, 13Generalisability21Discuss the generalisability (external validity) 
+of the study results13Other informationFunding22Give the source of funding and 
+the role of the funders for the present study and, if applicable, for the 
+original study on which the present article is based13*Give information 
+separately for exposed and unexposed groups.Note: An Explanation and Elaboration 
+article discusses each checklist item and gives methodological background and 
+published examples of transparent reporting. The STROBE checklist is best used 
+in conjunction with this article (freely available on the Web sites of PLoS 
+Medicine at http://www.plosmedicine.org/, Annals of Internal Medicine at 
+http://www.annals.org/, and Epidemiology at http://www.epidem.com/). Information 
+on the STROBE Initiative is available at www.strobe-statement.org.
+
+
+10. Cureus. 2024 May 21;16(5):e60804. doi: 10.7759/cureus.60804. eCollection 2024 
+May.
+
+Statistical Analysis Methods and Reporting of Patient-Reported Outcomes in 
+Randomized Controlled Trials for Cancer Conducted in Japan: A Systematic Review.
+
+Mizusawa J(1), Ogawa G(1), Terada M(2), Ishiki H(3), Kikawa Y(4), Kiyota N(5).
+
+Author information:
+(1)Center for Research Administration and Support, National Cancer Center, 
+Tokyo, JPN.
+(2)Department of International Clinical Development, National Cancer Center 
+Hospital, Tokyo, JPN.
+(3)Department of Palliative Medicine, National Cancer Center Hospital, Tokyo, 
+JPN.
+(4)Department of Breast Surgery, Kansai Medical University, Osaka, JPN.
+(5)Department of Medical Oncology and Hematology, Cancer Center, Kobe University 
+Hospital, Kobe, JPN.
+
+The Setting International Standards in Analyzing Patient-Reported Outcomes and 
+Quality of Life Endpoints Data (SISAQOL) initiative was established in 2016 to 
+assess the quality and standardization of patient-reported outcomes (PRO) data 
+analysis in randomized controlled trials (RCTs) on advanced breast cancer. The 
+initiative identified deficiencies in PRO data reporting, including 
+nonstandardized methods for handling missing data. This study evaluated the 
+reporting of health-related quality of life (HRQOL) in Japanese cancer RCTs to 
+provide insights into the state of PRO reporting in Japan. The study reviewed 
+PubMed articles published from 2010 to 2018. Eligible studies included Japanese 
+cancer RCTs with ≥50 adult patients (≥50% were Japanese) with solid tumors 
+receiving anticancer treatments. The evaluation criteria included clarity of the 
+HRQOL hypotheses, multiplicity testing, primary analysis methods, and reporting 
+of clinically meaningful differences. Twenty-seven HRQOL trials were identified. 
+Only 15% provided a clear HRQOL hypothesis, and 63% examined multiple HRQOL 
+domains without adjusting for multiplicity. Model-based methods were the most 
+common statistical methods for the primary HRQOL analysis. Only 22% of the 
+trials explicitly reported clinically meaningful differences in HRQOL. Baseline 
+assessments were reported in most trials, but only 26% reported comparisons 
+between the treatment groups. HRQOL analysis was based on the intention-to-treat 
+population in 19% of the trials, and 74% reported compliance at follow-up; 
+however, 41% did not specify how missing values were handled. Although the rates 
+of reporting clinical hypotheses and clinically meaningful differences were 
+relatively low, the current state of HRQOL evaluation in the Japanese cancer RCT 
+appears comparable to that of previous studies.
+
+Copyright © 2024, Mizusawa et al.
+
+DOI: 10.7759/cureus.60804
+PMCID: PMC11190813
+PMID: 38910767
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

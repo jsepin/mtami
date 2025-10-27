@@ -1,5 +1,12 @@
 # Multiplicity Adjustment for Multiple Imputation 
 
+
+Notes: 
+
+- Probably most relevant to show how much sample size can be saved.
+
+
+
 Covariance-Based Multiplicity Adjustment for Multiply Imputed Data
 
 Pooling Variance-Covariance matrizes for Holm-based multiplicity correction (with multcomp package).
